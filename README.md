@@ -2,33 +2,33 @@
 
 ## Overview
 
-MIPLIB-NL is a dataset of large-scale natural language optimization problems derived and reverse-engineered from the **MIPLIB 2017** collection, featuring a unique **Problem-Data Separation** format.
+MIPLIB-NL is a dataset of large-scale natural language optimization problems derived and reverse-engineered from the **MIPLIB 2017** collection, featuring a unique **problem-data separation** format.
 
 We use the following process to create each problem instance:
-1. Expert driven structural abstraction of (often large) MPS files
-2. Structure-preserving Opt-to-NL reverse generation via expert designed blueprints
-3. Semantic validation via independent NL-to-Opt reconstruction with human–LLM interaction.
+1. Expert-driven structural abstraction of (often large) MPS files
+2. Structure-preserving Opt-to-NL reverse generation via expert-designed blueprints
+3. Semantic validation via independent NL-to-Opt reconstruction with human–LLM interaction
 ![workflow](./assets/workflow.jpg)
 
-*Note: This dataset is currently a preview version, so only the `instance.json` file is displayed in the repository.*
+*Note: This dataset is currently a preview version; therefore, only the `instance.json` files are displayed in the repository.*
 
 ## Key Features
 1. A **large-scale** NL-to-Opt benchmark
 2. Based on 225 **real-world** MIPLIB 2017 instances
 3. **Problem-data separation** format for better scalability and modularity
-4. The **most difficult** verified optimization modeling benchmark for LLMs to date
+4. The **most challenging** verified optimization modeling benchmark for LLMs to date
 
 ## The Dataset
 
 ### Dataset Statistics
-- Median variables 2,183 (max 283,648)
-- Median constraints 1,388 (max 1,050,112)
-- Median compression ratio (defined as the ratio of the original MPS files size to the combined NL and Data file sizes) 6.5 (max 293,277)
+- Median number of variables: 2,183 (max 283,648)
+- Median number of constraints: 1,388 (max 1,050,112)
+- Median compression ratio: 6.5 (max 293,277) — defined as the ratio of the original MPS file size to the combined NL and Data file sizes.
 
-Distributions of problem sizes across optimization benchmarks, measured as the total number of variables plus constraints per instance:
+Distribution of problem sizes across optimization benchmarks, measured as the total number of variables plus constraints per instance:
 ![complexity](./assets/complexity.jpg)
 
-Distribution of model size and compression ratio (defined as the ratio of the original MPS files size to the combined NL and Data file sizes) across scale buckets on the MIPLIB-NL dataset:
+Distribution of model size and compression ratio across scale buckets in the MIPLIB-NL dataset:
 ![size_compression](./assets/size_ratio.jpg)
 
 ### Repository Structure
@@ -48,10 +48,10 @@ dataset/
 
 ### File Descriptions
 
-*   **`data/`**: detailed data files required to instantiate the problem. These are typically CSV files referenced by `instance.json`.
+*   **`data/`**: Detailed data files required to instantiate the problem. These are typically CSV files referenced by `instance.json`.
 *   **`instance.json`**: The central metadata file for the problem. It contains the natural language description, parameters, and specifications for input data files.
 *   **`model.md`**: A formal mathematical description of the problem, including sets, parameters, decision variables, constraints, and the objective function.
-*   **`solve.py`**: An executable Python script that demonstrates how to read the `instance.json`, load the data from `data/`, and solve the optimization model using a solver (typically Gurobi).
+*   **`solve.py`**: An executable Python script that demonstrates how to read `instance.json`, load the data from `data/`, and solve the optimization model using a solver (typically Gurobi).
 
 ### `instance.json` Structure
 
@@ -65,10 +65,10 @@ The `instance.json` file serves as the standard definition for each problem. Its
 *   **`optimal_value`**: The objective value of the known best solution for this specific instance.
 
 ### Evaluation
-Pass@1 accuracy across a range of existing NL-to-Opt benchmarks and MIPLIB-NL, showing the significant increase in difficulty with MIPLIB-NL:
+Pass@1 accuracy across a range of existing NL-to-Opt benchmarks and MIPLIB-NL, demonstrating the significant increase in difficulty in MIPLIB-NL:
 ![acc_distribution](./assets/acc_distribution.jpg)
 
-Here is the table for detailed pass@1 accuracy across these benchmarks:
+The table below details the Pass@1 accuracy across these benchmarks:
 ![acc_table](./assets/acc_table.jpg)
 
 ### Citation
