@@ -72,9 +72,21 @@ The table below details the Pass@1 accuracy across these benchmarks:
 ![acc_table](./assets/acc_table.jpg)
 
 ### Citation
+
+If you use this dataset in your research, please cite our paper (BibTeX provided below).
+```bibtex
+@article{li2026miplibnl,
+      title={Constructing Industrial-Scale Optimization Modeling Benchmark}, 
+      author={Zhong Li, Hongliang Lu, Tao Wei, Wenyu Liu, Yuxuan Chen, Yuan Lan, Fan Zhang, Zaiwen Wen},
+      year={2026},
+      eprint={2602.10450},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.10450}, 
+}
 ```
-To be determined
-```
+
+
 
 ### Contact
 We hope that the dataset is useful for your research or application. If you have any bug reports or comments, please feel free to email one of the authors:
