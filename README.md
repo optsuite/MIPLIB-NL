@@ -73,7 +73,7 @@ The table below details the Pass@1 accuracy across these benchmarks:
 
 ### Citation
 
-If you use this dataset in your research, please cite our paper (BibTeX provided below).
+If you use this dataset in your research, please cite our paper https://arxiv.org/abs/2602.10450 (BibTeX provided below).
 ```bibtex
 @article{li2026miplibnl,
       title={Constructing Industrial-Scale Optimization Modeling Benchmark}, 
