@@ -1,0 +1,5 @@
+effect_type,agreement_domain,expected_parity
+activation,trend,same
+repression,contrast,same
+activation,contrast,opposite
+repression,trend,opposite

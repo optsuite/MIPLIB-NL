@@ -1,0 +1,55 @@
+unit_id,der_type,pcc_id,owner_id
+DER_001,Micro-Turbine,PCC_0,Owner_0
+DER_002,Micro-Turbine,PCC_1,Owner_1
+DER_003,Battery Storage,PCC_2,Owner_2
+DER_004,Micro-Turbine,PCC_3,Owner_3
+DER_005,Battery Storage,PCC_4,Owner_4
+DER_006,Battery Storage,PCC_5,Owner_5
+DER_007,Diesel Gen,PCC_6,Owner_6
+DER_008,Solar PV,PCC_7,Owner_7
+DER_009,Battery Storage,PCC_8,Owner_8
+DER_010,Micro-Turbine,PCC_9,Owner_9
+DER_011,Solar PV,PCC_0,Owner_10
+DER_012,Solar PV,PCC_1,Owner_11
+DER_013,Solar PV,PCC_2,Owner_12
+DER_014,Diesel Gen,PCC_3,Owner_13
+DER_015,Solar PV,PCC_4,Owner_14
+DER_016,Solar PV,PCC_5,Owner_15
+DER_017,Micro-Turbine,PCC_6,Owner_16
+DER_018,Diesel Gen,PCC_7,Owner_17
+DER_019,Solar PV,PCC_8,Owner_18
+DER_020,Solar PV,PCC_9,Owner_19
+DER_021,Solar PV,PCC_0,Owner_0
+DER_022,Micro-Turbine,PCC_1,Owner_1
+DER_023,Micro-Turbine,PCC_2,Owner_2
+DER_024,Battery Storage,PCC_3,Owner_3
+DER_025,Diesel Gen,PCC_4,Owner_4
+DER_026,Micro-Turbine,PCC_5,Owner_5
+DER_027,Micro-Turbine,PCC_6,Owner_6
+DER_028,Micro-Turbine,PCC_7,Owner_7
+DER_029,Diesel Gen,PCC_8,Owner_8
+DER_030,Battery Storage,PCC_9,Owner_9
+DER_031,Diesel Gen,PCC_0,Owner_10
+DER_032,Battery Storage,PCC_1,Owner_11
+DER_033,Diesel Gen,PCC_2,Owner_12
+DER_034,Diesel Gen,PCC_3,Owner_13
+DER_035,Micro-Turbine,PCC_4,Owner_14
+DER_036,Micro-Turbine,PCC_5,Owner_15
+DER_037,Solar PV,PCC_6,Owner_16
+DER_038,Micro-Turbine,PCC_7,Owner_17
+DER_039,Micro-Turbine,PCC_8,Owner_18
+DER_040,Diesel Gen,PCC_9,Owner_19
+DER_041,Battery Storage,PCC_0,Owner_0
+DER_042,Battery Storage,PCC_1,Owner_1
+DER_043,Diesel Gen,PCC_2,Owner_2
+DER_044,Solar PV,PCC_3,Owner_3
+DER_045,Micro-Turbine,PCC_4,Owner_4
+DER_046,Micro-Turbine,PCC_5,Owner_5
+DER_047,Solar PV,PCC_6,Owner_6
+DER_048,Solar PV,PCC_7,Owner_7
+DER_049,Solar PV,PCC_8,Owner_8
+DER_050,Micro-Turbine,PCC_9,Owner_9
+DER_051,Solar PV,PCC_0,Owner_10
+DER_052,Micro-Turbine,PCC_1,Owner_11
+DER_053,Battery Storage,PCC_2,Owner_12
+DER_054,Solar PV,PCC_3,Owner_13

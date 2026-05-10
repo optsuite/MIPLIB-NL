@@ -1,0 +1,30 @@
+unit_id,turbine_type,location_zone,maintenance_provider
+COGEN_014,Gas Turbine,Zone_B,Provider_0
+COGEN_019,Extraction-Condensing,Zone_A,Provider_1
+COGEN_022,Gas Turbine,Zone_B,Provider_2
+COGEN_023,Back-Pressure,Zone_B,Provider_3
+COGEN_024,Reciprocating Engine,Zone_C,Provider_4
+COGEN_026,Gas Turbine,Zone_A,Provider_0
+COGEN_027,Extraction-Condensing,Zone_A,Provider_1
+COGEN_028,Gas Turbine,Zone_C,Provider_2
+COGEN_029,Reciprocating Engine,Zone_C,Provider_3
+COGEN_030,Reciprocating Engine,Zone_C,Provider_4
+COGEN_031,Back-Pressure,Zone_C,Provider_0
+COGEN_032,Gas Turbine,Zone_A,Provider_1
+COGEN_035,Extraction-Condensing,Zone_A,Provider_2
+COGEN_038,Back-Pressure,Zone_B,Provider_3
+COGEN_046,Gas Turbine,Zone_B,Provider_4
+COGEN_053,Reciprocating Engine,Zone_C,Provider_0
+COGEN_056,Reciprocating Engine,Zone_C,Provider_1
+COGEN_059,Gas Turbine,Zone_C,Provider_2
+COGEN_062,Reciprocating Engine,Zone_B,Provider_3
+COGEN_067,Gas Turbine,Zone_B,Provider_4
+COGEN_070,Back-Pressure,Zone_B,Provider_0
+COGEN_071,Extraction-Condensing,Zone_B,Provider_1
+COGEN_072,Back-Pressure,Zone_B,Provider_2
+COGEN_079,Reciprocating Engine,Zone_B,Provider_3
+COGEN_084,Back-Pressure,Zone_B,Provider_4
+COGEN_086,Extraction-Condensing,Zone_C,Provider_0
+COGEN_089,Gas Turbine,Zone_C,Provider_1
+COGEN_092,Back-Pressure,Zone_C,Provider_2
+COGEN_101,Gas Turbine,Zone_C,Provider_3

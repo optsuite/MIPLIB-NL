@@ -1,0 +1,55 @@
+unit_id,der_type,connection_voltage_kv,controller_firmware
+DER_001,Micro-Turbine,11.0,v1.4
+DER_002,Micro-Turbine,11.0,v2.5
+DER_003,Battery Storage,0.4,v3.8
+DER_004,Micro-Turbine,33.0,v2.0
+DER_005,Battery Storage,0.4,v1.0
+DER_006,Battery Storage,11.0,v1.4
+DER_007,Diesel Gen,0.4,v4.1
+DER_008,Solar PV,11.0,v1.4
+DER_009,Battery Storage,11.0,v3.3
+DER_010,Micro-Turbine,11.0,v2.5
+DER_011,Solar PV,33.0,v2.5
+DER_012,Solar PV,11.0,v2.8
+DER_013,Solar PV,33.0,v3.6
+DER_014,Diesel Gen,11.0,v3.2
+DER_015,Solar PV,0.4,v4.5
+DER_016,Solar PV,33.0,v4.4
+DER_017,Micro-Turbine,33.0,v2.4
+DER_018,Diesel Gen,33.0,v3.7
+DER_019,Solar PV,33.0,v3.5
+DER_020,Solar PV,11.0,v4.0
+DER_021,Solar PV,11.0,v2.2
+DER_022,Micro-Turbine,11.0,v2.0
+DER_023,Micro-Turbine,11.0,v2.1
+DER_024,Battery Storage,11.0,v4.4
+DER_025,Diesel Gen,0.4,v3.8
+DER_026,Micro-Turbine,11.0,v2.4
+DER_027,Micro-Turbine,0.4,v1.8
+DER_028,Micro-Turbine,33.0,v3.2
+DER_029,Diesel Gen,33.0,v2.1
+DER_030,Battery Storage,0.4,v4.8
+DER_031,Diesel Gen,0.4,v2.7
+DER_032,Battery Storage,0.4,v4.0
+DER_033,Diesel Gen,0.4,v2.4
+DER_034,Diesel Gen,0.4,v2.0
+DER_035,Micro-Turbine,11.0,v2.8
+DER_036,Micro-Turbine,0.4,v4.5
+DER_037,Solar PV,0.4,v1.7
+DER_038,Micro-Turbine,0.4,v1.3
+DER_039,Micro-Turbine,33.0,v1.0
+DER_040,Diesel Gen,0.4,v1.8
+DER_041,Battery Storage,0.4,v1.8
+DER_042,Battery Storage,11.0,v4.3
+DER_043,Diesel Gen,11.0,v4.8
+DER_044,Solar PV,0.4,v3.6
+DER_045,Micro-Turbine,33.0,v3.6
+DER_046,Micro-Turbine,33.0,v4.1
+DER_047,Solar PV,0.4,v1.6
+DER_048,Solar PV,33.0,v2.1
+DER_049,Solar PV,0.4,v2.1
+DER_050,Micro-Turbine,0.4,v4.1
+DER_051,Solar PV,11.0,v2.5
+DER_052,Micro-Turbine,11.0,v4.4
+DER_053,Battery Storage,11.0,v1.4
+DER_054,Solar PV,11.0,v1.6

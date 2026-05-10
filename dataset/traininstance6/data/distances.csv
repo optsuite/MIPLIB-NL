@@ -1,0 +1,5 @@
+segment_id,from_station,to_station,distance
+1,1,2,5
+2,2,3,5
+3,3,4,5
+

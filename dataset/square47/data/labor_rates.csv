@@ -1,0 +1,6 @@
+task_code,task_description,hourly_rate,avg_hours_per_slab
+PREP,Site preparation and leveling,45.00,0.5
+LIFT,Slab lifting and positioning,65.00,1.0
+ALIGN,Precision alignment check,55.00,0.25
+SEAL,Joint sealing and finishing,40.00,0.75
+INSP,Quality inspection,50.00,0.25

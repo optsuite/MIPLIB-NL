@@ -1,0 +1,13 @@
+sample_id,slab_edge_length,marble_type,polish_grade,inspection_status
+S001,4,C,2,PASS
+S002,9,P,3,PASS
+S003,16,T,1,PENDING
+S004,2,C,2,PASS
+S005,21,P,2,PASS
+S006,1,T,3,PASS
+S007,12,C,1,PASS
+S008,25,P,2,PENDING
+S009,6,T,2,PASS
+S010,18,C,3,PASS
+S011,3,P,2,PASS
+S012,28,T,1,PASS

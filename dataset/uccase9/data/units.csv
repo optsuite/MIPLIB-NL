@@ -1,0 +1,30 @@
+unit_id,turbine_type,commission_date,heat_rate_base
+COGEN_014,Gas Turbine,2012-07-20,10180.0
+COGEN_019,Extraction-Condensing,2008-01-27,9209.0
+COGEN_022,Gas Turbine,2006-11-27,9433.0
+COGEN_023,Back-Pressure,2018-04-05,9542.0
+COGEN_024,Reciprocating Engine,2019-08-30,9737.0
+COGEN_026,Gas Turbine,2013-02-13,11882.0
+COGEN_027,Extraction-Condensing,1995-01-12,9545.0
+COGEN_028,Gas Turbine,2012-11-19,9539.0
+COGEN_029,Reciprocating Engine,1998-03-27,8037.0
+COGEN_030,Reciprocating Engine,2016-01-11,8272.0
+COGEN_031,Back-Pressure,2010-03-13,11044.0
+COGEN_032,Gas Turbine,2014-07-09,10225.0
+COGEN_035,Extraction-Condensing,2017-06-27,8588.0
+COGEN_038,Back-Pressure,2003-06-19,10024.0
+COGEN_046,Gas Turbine,1998-08-19,8956.0
+COGEN_053,Reciprocating Engine,1998-03-18,10742.0
+COGEN_056,Reciprocating Engine,2012-11-01,9107.0
+COGEN_059,Gas Turbine,2006-01-20,8455.0
+COGEN_062,Reciprocating Engine,2019-01-10,9509.0
+COGEN_067,Gas Turbine,2010-03-05,9334.0
+COGEN_070,Back-Pressure,2005-10-02,8023.0
+COGEN_071,Extraction-Condensing,1995-06-25,11065.0
+COGEN_072,Back-Pressure,2000-04-09,8480.0
+COGEN_079,Reciprocating Engine,2008-11-30,9124.0
+COGEN_084,Back-Pressure,1998-10-15,10144.0
+COGEN_086,Extraction-Condensing,1999-06-22,10506.0
+COGEN_089,Gas Turbine,2011-06-14,8432.0
+COGEN_092,Back-Pressure,2004-06-04,10812.0
+COGEN_101,Gas Turbine,2022-03-20,10478.0

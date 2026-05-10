@@ -1,0 +1,10 @@
+parameter,value
+num_trains,5
+num_stations,5
+num_segments,4
+max_time_horizon,1140
+delay_time_step,5
+max_delayed_trains,2
+max_delay_steps_per_train,5
+train_capacity,500
+headway_minutes,2.0

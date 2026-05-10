@@ -1,0 +1,2 @@
+standard_aircraft_cost,rental_aircraft_cost,overtime_cost,standard_aircraft_hours,rental_aircraft_hours,max_rental_aircraft,aircraft_retention_rate,min_standard_aircraft_period_2_6,max_standard_aircraft_period_2_6
+2700,1500,30,150,100,18,0.9,57,75

@@ -1,0 +1,9 @@
+source_id,source_type,note
+0,experiment,Transcriptomics batch A
+1,experiment,Transcriptomics batch B
+2,experiment,Perturbation screen
+3,curation,Manual literature curation
+4,pipeline,Inference pipeline v1
+5,pipeline,Inference pipeline v2
+6,database,Public interaction database
+7,database,Internal interaction database

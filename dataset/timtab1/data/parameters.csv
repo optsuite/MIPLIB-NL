@@ -1,0 +1,2 @@
+num_services,num_frequencies,num_constraints,frequency_coefficient,objective_sense
+226,171,171,-60,minimize

@@ -1,0 +1,17 @@
+parameter,value
+N,105
+M,105
+baseline_assignment_cost,0
+pair_time_link_default_sense,G
+pair_time_link_big_m,60000
+chassis_time_default_sense,G
+chassis_time_default_rhs,0
+num_assignment_vars,11025
+num_time_vars,65
+num_constraints_in_mps_core,4290
+num_modeled_rules,4225
+num_dropped_redundant_rules,65
+num_pair_time_link_rules,4160
+num_chassis_time_rules,65
+num_residual_rules,0
+objective_nonzero_costs,7854

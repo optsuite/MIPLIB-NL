@@ -1,0 +1,6 @@
+parameter,value
+R,20
+regular_plan_cost,0.00001
+penalty_pattern_cost,1.0
+N,150
+M,12

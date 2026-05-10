@@ -10,7 +10,7 @@ We use the following process to create each problem instance:
 3. Semantic validation via independent NL-to-Opt reconstruction with human–LLM interaction
 ![workflow](./assets/workflow.jpg)
 
-*Note: This dataset is currently a preview version; therefore, only the `instance.json` files are displayed in the repository.*
+*Note: We may continue to make minor fixes to potential issues in this repository before the camera-ready version of the paper is finalized.*
 
 ## Key Features
 1. A **large-scale** NL-to-Opt benchmark

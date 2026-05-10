@@ -1,0 +1,6 @@
+parameter,value
+num_tasks,50
+resource_capacity,25
+min_time,0
+max_time,200
+horizon,201

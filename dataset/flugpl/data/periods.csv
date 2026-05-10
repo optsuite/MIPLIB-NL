@@ -1,0 +1,7 @@
+period,aircraft_balance,min_flight_hours,max_overtime
+1,60,8000,0
+2,0,9000,0
+3,0,8000,0
+4,0,10000,0
+5,0,9000,0
+6,0,12000,0

@@ -1,0 +1,6 @@
+label,start_time_id,end_time_id
+a1,44,63
+a2,40,79
+meal_break,44,71
+off,0,95
+short_break,44,63

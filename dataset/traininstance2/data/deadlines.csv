@@ -1,0 +1,4 @@
+train_id,station_id,type,deadline
+3,2,departure,48.0
+4,1,departure,56.0
+3,4,departure,64.0

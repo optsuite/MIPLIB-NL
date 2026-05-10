@@ -1,0 +1,4 @@
+parameter,value
+num_nodes,500
+num_arcs,1250
+capacity_per_arc,4

@@ -1,0 +1,5 @@
+train_id,station_id,weight,type
+1,4,300,arrival
+2,3,340,arrival
+3,4,170,arrival
+4,1,240,departure
